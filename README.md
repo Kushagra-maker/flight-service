@@ -1,7 +1,7 @@
-# Flights-Service
+# SkyRoute
 
 ## 📖 Overview
-Flights-Service is a Node.js-based API designed to manage various aspects of flight operations, including airports, cities, airplanes, and seats. The project follows best coding practices and project management recommendations to ensure scalability and maintainability.
+SkyRoute is a Node.js-based API designed to manage various aspects of flight operations, including airports, cities, airplanes, and seats. The project follows best coding practices and project management recommendations to ensure scalability and maintainability.
 
 ## 🛠️ Features
 - **Flight Management**: CRUD operations for flights, including scheduling and allocation.
